@@ -6,6 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sambit8249" alt="sambit8249" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sambits50613454" target="blank"><img src="https://img.shields.io/twitter/follow/sambits50613454?logo=twitter&style=for-the-badge" alt="sambits50613454" /></a> </p>
+- 🌱 I’m currently learning *Power Bi, Sql ,Excel,Python*
+
+
 
 - 👨‍💻 All of my projects are available at [https://sambit8249.github.io/portfolio/](https://sambit8249.github.io/portfolio/)
 

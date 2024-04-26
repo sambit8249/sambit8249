@@ -3,7 +3,7 @@
 <h3 align="center">📊Unleashing Creativity: A Fullstack Java Developer's Playground on GitHub</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/sambit8249/sambit8249/blob/main/Bkg.gif">
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sambit8249" alt="sambit8249" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"> </a> </p>
 
 <p align="left"> <a href="https://twitter.com/sambits50613454" target="blank"><img src="https://img.shields.io/twitter/follow/sambits50613454?logo=twitter&style=for-the-badge" alt="sambits50613454" /></a> </p>
 - 🌱 I’m currently learning *Java, Sql ,Spring ,Hibernate ,Boot*

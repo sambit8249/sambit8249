@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/strayless_69" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sambits50613454?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1DA1F2&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/sambits50613454" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/sambit8249?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1DA1F2&logoColor=white" alt="Twitter">
   </a>
 </p>
 <p align="center">

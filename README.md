@@ -87,13 +87,13 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrajit369&layout=compact&theme=midnight-purple" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambit8249&layout=compact&theme=midnight-purple" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhrajit369&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sambit8249&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhrajit369&theme=midnight-purple" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sambit8249&theme=midnight-purple" alt="GitHub Streak">
 </p>

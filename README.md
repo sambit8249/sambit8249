@@ -38,7 +38,7 @@
 <h3 align="center" style="color: #ff2400;">📄 Know about my Experiences</h3>
 
 <p align="center">
-  <a href="https://www.naukri.com/mnjuser/profile" target="_blank" style="color: #0d6efd;">Naukri Profile</a>
+  <a href="https://www.naukri.com/mnjuser/homepage" target="_blank" style="color: #0d6efd;">Naukri Profile</a>
 </p>
 
 <hr>

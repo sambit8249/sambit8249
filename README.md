@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/subhrajit369/subhrajit369/blob/main/banner.gif)](https://github.com/subhrajit369/subhrajit369/blob/main/banner.gif)
+[![MasterHead](https://github.com/sambit8249/sambit8249/blob/main/banner.gif)](https://github.com/subhrajit369/subhrajit369/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Sambit Sahoo</h1>
 

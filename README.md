@@ -1,8 +1,8 @@
 [![MasterHead](https://github.com/subhrajit369/subhrajit369/blob/main/banner.gif)](https://github.com/subhrajit369/subhrajit369/blob/main/banner.gif)
 
-<h1 align="center">Hi 👋, I'm Subhrajit Pradhan</h1>
+<h1 align="center">Hi 👋, I'm Sambit Sahoo</h1>
 
-<h3 align="center">Data Analyst | Transforming Data into Insights and Strategies for Informed Decision-Making</h3>
+<h3 align="center">📊Unleashing Creativity: A Fullstack Java Developer's Playground on GitHub</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=subhrajit369&label=Profile%20views&color=0e75b6&style=flat "width="200" alt="Profile views">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://twitter.com/strayless_69" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/strayless_69?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1DA1F2&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/twitter/follow/sambits50613454?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1DA1F2&logoColor=white" alt="Twitter">
   </a>
 </p>
 <p align="center">
@@ -22,7 +22,7 @@
 <h2 align="center" style="color: #ff2400;">🎮 I’m currently learning </h2>
 
 <p align="center">
-  Power BI | SQL | Excel | Python
+  Spring Boot | Microservices | SQL | React Js
 </p>
 
 <hr>
@@ -30,7 +30,7 @@
 <h3 align="center" style="color: #ff2400;">📫 How to Reach Me</h3>
 
 <p align="center">
-  Email: subhrajitpradhanjobs@gmail.com
+  Email: sambitsahoo346@gmail.com
 </p>
 
 <hr>

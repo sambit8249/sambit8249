@@ -46,13 +46,13 @@
 <h3 align="center" style="color: #ff2400;">Connect with Me</h3>
 
 <p align="center">
-  <a href="https://twitter.com/strayless_69" target="_blank">
+  <a href="https://twitter.com/sambits50613454" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40">
   </a>
-  <a href="https://www.linkedin.com/in/subhrajit-pradhan" target="_blank">
+  <a href="https://www.linkedin.com/in/sambit8249" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40">
   </a>
-  <a href="https://instagram.com/iamrichard69_" target="_blank">
+  <a href="https://instagram.com/sambit7026_" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40">
   </a>
 </p>
